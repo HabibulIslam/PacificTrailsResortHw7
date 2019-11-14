@@ -253,5 +253,13 @@ td {
     text-align: center;
 }
 
+.text {
+     text-align: left;   
+}
+
+tr:nth-child(even) {
+    background: #F5FAFC;
+}
+
 #mobile { display: none; }
 #desktop { display: inline; }
