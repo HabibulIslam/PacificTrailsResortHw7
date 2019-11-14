@@ -236,5 +236,12 @@ header, nav, main, footer {
     #desktop { display: none; }
 }
 
+table {
+    border: 1px solid #3399cc;
+    width: 90%;
+    border-collapse: collapse;
+}
+
+
 #mobile { display: none; }
 #desktop { display: inline; }
